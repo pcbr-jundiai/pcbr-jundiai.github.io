@@ -1,0 +1,101 @@
+[
+  {
+    "nome": "A emancipação das mulheres e a revolução proletária – V. I. Lênin",
+    "preco": "R$ 50,00",
+    "imagem": "images/lenin_mulher.jpeg",
+    "acao": "Detalhes",
+    "link": "#",
+    "sale": false,
+    "estrelas":5
+  },
+  {
+    "nome": "A outra Rosa: estratégia e política revolucionária",
+    "preco": "R$ 60,00",
+    "imagem": "images/rosa.jpeg",
+    "acao": "Detalhes",
+    "link": "#",
+    "sale": false,
+    "estrelas": 5
+  },
+  {
+    "nome": "Guia prático de agitação e propaganda, por Antônio Alves",
+    "preco": "R$ 46,00",
+    "imagem": "images/guia_clap.jpeg",
+    "acao": "Detalhes",
+    "link": "#",
+    "sale": false,
+    "estrelas": 5
+  },
+  {
+    "nome": "Estratégia e tática da hegemonia proletária, por Lênin",
+    "preco": "R$ 80,00",
+    "imagem": "images/heg.jpg",
+    "acao": "Detalhes",
+    "link": "#",
+    "sale": false,
+    "estrelas": 5
+  },
+    {
+        "nome": "Lênin e a filosofia: materialismo, dialética e a crise nas ciências",
+        "preco": "R$ 50,00",
+        "imagem": "images/lenin_filosofia.jpeg",
+        "acao": "Detalhes",
+        "link": "#",
+        "sale": false,
+        "estrelas": 5
+    },
+    {
+        "nome": "Filhos da Palestina: Retorno a Haifa e outras histórias, por Ghassan Kanafani",
+        "preco": "R$ 56,00",
+        "imagem": "images/palestina.jpeg",
+        "acao": "Detalhes",
+        "link": "#",
+        "sale": false,
+        "estrelas": 5
+    },
+    {
+        "nome": "Para além da natureza: libertação animal e socialismo, por Marco Maurizi",
+        "preco": "R$ 60,00",
+        "imagem": "images/libertacao_animal.jpeg",
+        "acao": "Detalhes",
+        "link": "#",
+        "sale": false,
+        "estrelas": 5
+    },
+    {
+        "nome": "Racismo, capital e emancipação humana: notas sobre a questão negra na tradição comunista40",
+        "preco": "R$ 56,00",
+        "imagem": "images/racismo_emancipacao.jpeg",
+        "acao": "Detalhes",
+        "link": "#",
+        "sale": false,
+        "estrelas": 5
+    },
+    {
+        "nome": "Alexandra Kollontai: obras escolhidas (volume 2)",
+        "preco": "R$ 60,00",
+        "imagem": "images/revolucao_sexual.png",
+        "acao": "Detalhes",
+        "link": "#",
+        "sale": false,
+        "estrelas": 5
+    },
+    {
+        "nome": "Clara Zetkin: Obras Escolhidas",
+        "preco": "R$ 76,00",
+        "imagem": "images/zetkin.jpeg",
+        "acao": "Detalhes",
+        "link": "#",
+        "sale": false,
+        "estrelas": 5
+    },
+    {
+        "nome": "Claudia Jones: escritos sobre gênero, raça e classe",
+        "preco": "R$ 76,00",
+        "imagem": "images/claudia_jones.jpg",
+        "acao": "Detalhes",
+        "link": "#",
+        "sale": false,
+        "estrelas": 5
+    }
+]
