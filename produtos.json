@@ -1,101 +1,282 @@
 [
   {
-    "nome": "A emancipação das mulheres e a revolução proletária – V. I. Lênin",
-    "preco": "R$ 50,00",
-    "imagem": "images/lenin_mulher.jpeg",
+    "id": 1,
+    "nome": "Camiseta Lenin Off The Capital",
+    "preco": "R$ 60,00",
+    "imagem": "images/camiseta_lenin.jpg",
     "acao": "Detalhes",
-    "link": "#",
+    "link": "item.html?id=1",
     "sale": false,
-    "estrelas":5
+    "estrelas": 5,
+    "details.description": "Camiseta branca com estampa V.Lenin Off The Capital. 100% algodão, estampa em serigrafia, verificar disponibilidade de tamanhos.",
+    "details.images": [
+      "images/camiseta_lenin.jpg"
+    ]
   },
   {
+    "id": 20,
+    "nome": "Camiseta Construir o Futuro",
+    "preco": "R$ 60,00",
+    "imagem": "images/camiseta_construir.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=20",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "Camiseta branca com estampa Construir o Futuro, foto de chico science. 100% algodão, estampa em serigrafia, verificar disponibilidade de tamanhos.",
+    "details.images": [
+      "images/camiseta_construir.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Kit Botons",
+    "preco": "R$ 12,00",
+    "imagem": "images/botons.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=21",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "Kit com 3 botons com estampas diferentes. Verificar disponibilidade",
+    "details.images": [
+      "images/botons.jpg"
+    ]
+  },
+  {
+    "id": 2,
     "nome": "A outra Rosa: estratégia e política revolucionária",
     "preco": "R$ 60,00",
-    "imagem": "images/rosa.jpeg",
+    "imagem": "images/rosa.jpg",
     "acao": "Detalhes",
-    "link": "#",
+    "link": "item.html?id=2",
     "sale": false,
-    "estrelas": 5
+    "estrelas": 5,
+    "details.description": "Nascida em 5 de março de 1871, há exatos 150 anos (apenas duas semanas antes de emergir, em Paris, a Comuna revolucionária), a polonesa Rosa Luxemburgo foi uma das mais destacadas militantes marxistas e internacionalistas de sua época, incidindo nas polêmicas táticas e organizativas do movimento operário alemão, polonês e russo.\n\n\n\nA grandiosidade de sua contribuição à teoria e à prática comunista pode apenas ser comparada à grandiosidade das tragédias que marcaram sua existência. Combatente incansável, isolada em meio aos oportunistas de seu próprio partido, presa por protestar contra a I Guerra Mundial e assassinada na vigência do primeiro governo social-democrata reformista da história, Rosa Luxemburgo não só representa toda a potência e vitalidade da política proletária revolucionária, mas também atesta a putrefação oportunista da social-democracia alemã, esse “cadáver insepulto” que, ironicamente, detinha como seu símbolo político… a rosa vermelha!\n\n\n\nNa coletânea A outra Rosa: estratégia e política revolucionária, através de seus escritos (a maior parte inéditos em português), podemos vislumbrar um lampejo dessa revolucionária infatigável em luta contra as infiltrações liberais no movimento operário. E se é verdade, como denunciou Luxemburgo, que a rosa da social-democracia alemã há muito murchou – também é verdade que em seu jardim floresceu essa outra Rosa, que hoje empunhamos como arma na luta contra os mesmos males e desvios, na batalha das ideias.\n\n\n\nContendo os escritos: “Possibilismo e oportunismo”, “Discursos no Congresso de Stuttgart”, “Uma questão de tática”; “O livro de Kautsky contra Bernstein”, “A crise socialista na França”; “Terro”, “A crítica no movimento operário” (excerto); “Blanquismo e social-democracia”; “Discursos no Congresso de Mannheim”, “Dois métodos de política sindical”; “Ressaca revolucionária”; “Disciplina partidária”, “O socialismo de Wilson”; “Cartas da prisão” e “Congresso de fundação do Partido Comunista Alemão (KPD)”.\n\n\n\nCom apêndice por August Thalheimer: “Rosa Luxemburgo ou Lênin”.\n\n\n\n<br><br><strong>Autora:</strong> Rosa Luxemburgo<br><br><strong>Tradução:</strong> Daniel Garcia, Gabriel Landi Fazzio, MBS, Raul Floriano<br><br><strong>Prefácio:</strong> Jones Manoel<br><br><strong>Revisão:</strong> Giovana Aranda Silva<br><br><strong>Páginas:</strong> 300<br><br><strong>Edição:</strong> 2021",
+    "details.images": [
+      "images/rosa.jpg"
+    ]
   },
   {
+    "id": 3,
     "nome": "Guia prático de agitação e propaganda, por Antônio Alves",
     "preco": "R$ 46,00",
-    "imagem": "images/guia_clap.jpeg",
+    "imagem": "images/guia_clap.jpg",
     "acao": "Detalhes",
-    "link": "#",
+    "link": "item.html?id=3",
     "sale": false,
-    "estrelas": 5
+    "estrelas": 5,
+    "details.description": "A agitação e propaganda é uma tarefa central para quem deseja transformar a realidade, apontando suas contradições e mazelas no sentido de mobilizar, educar e organizar a classe trabalhadora. E nessa esfera da militância cabe ao agitador e ao propagandista ter o conhecimento teórico e prático para melhor guiar sua práxis no sentido de agitar as massas, propagandear as ideias revolucionárias e a necessidade de construir um novo mundo livre da exploração e das opressões.\n\n\n\nMas como dar forma, voz e expressão às contradições da realidade? O camarada Antônio Alves – organizador, agitador e propagandista comunista – nos facilita os caminhos das possíveis respostas essa pergunta, e vai além: ajuda a guiar melhor nossa atividade militante como um todo, e na AgitProp em especial. Antônio (mais conhecido pelo codinome Morgação) vale-se de sua vasta experiência como jornalista militante marxista-leninista e sistematiza a diversidade de formas para materializarmos nossa linha política através da relação entre a comunicação e a arte na AgitProp.\n\n\n\nUma obra brilhantemente ilustrada que, resgatando o sentido teórico da Agitação e Propaganda comunista, não se limita aí ao abstrato: destrincha os mais diversos exemplos práticos, métodos, meios e formas da comunicação revolucionária, municiando o/a leitor/a para a batalha das ideias.\n\n\n\n<br><br><strong>Autor:</strong> Antônio Alves<br><br><strong>Prefácio:</strong> Fran Rebelatto<br><br><strong>Posfácio:</strong> Gabriel Landi Fazzio<br><br><strong>Capa e Ilustrações:</strong> Fran Rebelatto, Jonas Vicente<br><br><strong>Páginas:</strong> 160<br><br><strong>Edição:</strong> 2022",
+    "details.images": [
+      "images/guia_clap.jpg"
+    ]
   },
   {
+    "id": 4,
     "nome": "Estratégia e tática da hegemonia proletária, por Lênin",
     "preco": "R$ 80,00",
-    "imagem": "images/heg.jpg",
+    "imagem": "images/lenin_estrategia.jpg",
     "acao": "Detalhes",
-    "link": "#",
+    "link": "item.html?id=4",
     "sale": false,
-    "estrelas": 5
+    "estrelas": 5,
+    "details.description": "“A hegemonia do proletariado constitui um dos princípios fundamentais do marxismo”.\n\n“Somente a concepção de hegemonia de um negociante pequeno-burguês poderia concebê-la como um acordo, um reconhecimento mútuo, uma questão de termos verbalizados. Do ponto de vista proletário, a hegemonia em uma guerra pende para o lado que luta com mais energia, que não perde nunca a chance de desferir um golpe no inimigo, que sempre ajusta a ação às palavras, sendo, portanto, a liderança ideológica das forças democráticas, que critica políticas intermediárias de todo tipo.”\n\nA palavra ” hegemonia“ aparece um total de 167 vezes nas obras completas de Lênin. Não é à toa que Gramsci, um dos principais popularizadores do termo, atribuía a Lênin a originalidade na formulação e realização desse conceito: “assinalei a importância filosófica do conceito e da realidade da hegemonia, devido a Ilitch.“\n\nReunindo dezenas de escritos de Lênin inéditos em português, a coletânea Estratégia e tática da hegemonia proletária põe em foco a concepção lenineana da hegemonia do proletariado.\n\n<br><br><strong>Autor:</strong> Vladímir Ilitch Uliánov, Lênin<br><br><strong>Prefácio:</strong> Vinícius Okada<br><br><strong>Tradução:</strong> Gabriel Landi Fazzio, Gabriel Varandas Lazzari, MBS, Mário Coelho, Otávio Losada e Vinícius Okada<br><br><strong>Revisão:</strong> Gabriel Landi Fazzio e Giovana Aranda Silva<br><br><strong>Páginas:</strong> 456<br><br><strong>Edição:</strong> 2023",
+    "details.images": [
+      "images/lenin_estrategia.jpg"
+    ]
   },
-    {
-        "nome": "Lênin e a filosofia: materialismo, dialética e a crise nas ciências",
-        "preco": "R$ 50,00",
-        "imagem": "images/lenin_filosofia.jpeg",
-        "acao": "Detalhes",
-        "link": "#",
-        "sale": false,
-        "estrelas": 5
-    },
-    {
-        "nome": "Filhos da Palestina: Retorno a Haifa e outras histórias, por Ghassan Kanafani",
-        "preco": "R$ 56,00",
-        "imagem": "images/palestina.jpeg",
-        "acao": "Detalhes",
-        "link": "#",
-        "sale": false,
-        "estrelas": 5
-    },
-    {
-        "nome": "Para além da natureza: libertação animal e socialismo, por Marco Maurizi",
-        "preco": "R$ 60,00",
-        "imagem": "images/libertacao_animal.jpeg",
-        "acao": "Detalhes",
-        "link": "#",
-        "sale": false,
-        "estrelas": 5
-    },
-    {
-        "nome": "Racismo, capital e emancipação humana: notas sobre a questão negra na tradição comunista40",
-        "preco": "R$ 56,00",
-        "imagem": "images/racismo_emancipacao.jpeg",
-        "acao": "Detalhes",
-        "link": "#",
-        "sale": false,
-        "estrelas": 5
-    },
-    {
-        "nome": "Alexandra Kollontai: obras escolhidas (volume 2)",
-        "preco": "R$ 60,00",
-        "imagem": "images/revolucao_sexual.png",
-        "acao": "Detalhes",
-        "link": "#",
-        "sale": false,
-        "estrelas": 5
-    },
-    {
-        "nome": "Clara Zetkin: Obras Escolhidas",
-        "preco": "R$ 76,00",
-        "imagem": "images/zetkin.jpeg",
-        "acao": "Detalhes",
-        "link": "#",
-        "sale": false,
-        "estrelas": 5
-    },
-    {
-        "nome": "Claudia Jones: escritos sobre gênero, raça e classe",
-        "preco": "R$ 76,00",
-        "imagem": "images/claudia_jones.jpg",
-        "acao": "Detalhes",
-        "link": "#",
-        "sale": false,
-        "estrelas": 5
-    }
+  {
+    "id": 5,
+    "nome": "Lênin e a filosofia: materialismo, dialética e a crise nas ciências",
+    "preco": "R$ 50,00",
+    "imagem": "images/lenin_filosofia.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=5",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "Nesta coletânea, estão reunidos pela primeira vez três escritos inéditos em nosso país: os artigos de Louis Althusser “Lênin e a filosofia” e “Lênin perante Hegel” e a brochura de Dominique Lecourt “Uma crise e seu significado: ensaio sobre a posição de Lênin na filosofia“. A partir do pontapé dado por Althusser no debate sobre a relação entre Lênin e a filosofia, Lecourt desenvolve e aprofunda as indicações oferecidas por seu antigo professor universitário e apresenta uma tese inovadora em defesa das elaborações de Lênin neste terreno, defendendo, na contramão do senso comum do marxismo universitário, a continuidade e a unidade teórica existente entre a teoria do reflexo de Lênin em “Materialismo e empiriocriticismo” e nos “Cadernos sobre a dialética de Hegel“.\n\n\n\n“É o próprio Lênin quem diz: não sou um filósofo e estou mal preparado neste domínio; sei que as minhas formulações e definições são vagas, mal delineadas; sei muito bem que os filósofos vão acusar o materialismo de ser ‘metafísico’. Mas, Lênin acrescenta: a questão não é esta. É que não só não faço a filosofia deles, como não ‘faço’ filosofia, em absoluto, como eles. A sua maneira de ‘fazer’ filosofia consiste em despender tesouros de inteligência e sutileza para nada mais que ruminar na filosofia. Quanto a mim, trato a filosofia de outro modo, pratico-a, como queria Marx, de acordo com o que ela é. É isto o que eu julgo ser ‘materialista dialético’.”\n\n\n\nLouis Althusser: Lênin e a filosofia\n\n\n\n“Na primeira parte de ‘Materialismo e empiriocriticismo‘, Lênin, ao apresentar a tese do reflexo, defende, sim ou não, contra os seus adversários, uma teoria empirista-sensualista do conhecimento? A leitura atenta desta obra convenceu-nos de que este debate não terá nunca fim, pois perde de vista o objeto da primeira parte de ‘Materialismo e empiriocriticismo’. Apresentamos nossas conclusões sob a forma de três paradoxos a resolver:\n\na. o ‘reflexo’ tratado na tese do reflexo é um reflexo sem espelho;\n\nb. apesar de todas as aparências, Lênin não defendeu, de maneira nenhuma, uma teoria sensualista do conhecimento;\n\nc. não existe nenhuma contradição entre as teses defendidas em ‘Materialismo e empiriocriticismo‘ e as que mais tarde serão defendidas nos ‘Cadernos sobre a dialética‘: em particular, a tese do reflexo (sem espelho) será retomada e pensada na categoria de processo (sem sujeito).”\n\n\n\nDominique Lecourt: Uma crise e seu significado.\n\n\n\n<br><br><strong>Autores:</strong> Louis Althusser e Dominique Lecourt<br><br><strong>Tradução:</strong> Isabel Brito e Gabriel Landi Fazzio<br><br><strong>Revisão:</strong> Giovana Aranda Silva<br><br><strong>Páginas:</strong> 240<br><br><strong>Edição:</strong> 2023",
+    "details.images": [
+      "images/lenin_filosofia.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Filhos da Palestina: Retorno a Haifa e outras histórias, por Ghassan Kanafani",
+    "preco": "R$ 56,00",
+    "imagem": "images/palestina.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=6",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "“Política e literatura”, Ghassan Kanafani disse uma vez, “são coisas inseparáveis.” Fadl al-Naqib refletiu que Kanafani “escreveu a história palestina, depois foi escrito por ela.” Suas narrativas oferecem uma janela para a experiência palestina sob o conflito que vitimou o povo do Oriente Médio durante a maior parte do século XX.\n\n\n\nEm Filhos da Palestina: Retorno a Haifa e outras histórias, cada conto envolve uma criança – uma criança que é vitimada por acontecimentos e circunstâncias políticas, mas que, no entanto, participa da luta por um futuro melhor. Como em outras obras ficcionais de Kanafani, essas histórias exploram a necessidade de recuperar o passado – a pátria perdida – por meio da ação. Ao mesmo tempo, escritas por um grande talento, elas têm um apelo universal.\n\n\n\nNascido em Acre (norte da Palestina) no ano de 1936, Ghassan Kanafani foi um importante porta-voz da Frente Popular pela Libertação da Palestina e editor-fundador de sua revista semanal, al-Hadaf. Seus romances e contos foram publicados em dezesseis idiomas. Foi assassinado em Beirute em 8 de julho de 1972, há 50 anos, em uma explosão decorrente de uma bomba colocada em seu carro pelo Mossad, o serviço secreto israelense.\n\n\n\nEsta edição inclui a introdução das tradutoras para o inglês e uma curta biografia do autor.\n\n\n\n<br><br><strong>Autor:</strong> Ghassan Kanafani<br><br><strong>Tradução:</strong> Gercyane Oliveira, Gabriel Landi Fazzio<br><br><strong>Revisão:</strong> Giovana Aranda Silva, Giulia Cristiano<br><br><strong>Páginas:</strong> 248<br><br><strong>Edição:</strong> 2022",
+    "details.images": [
+      "images/palestina.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Para além da natureza: libertação animal e socialismo, por Marco Maurizi",
+    "preco": "R$ 60,00",
+    "imagem": "images/libertacao_animal.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=7",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "Para além da natureza: libertação animal e socialismo explora as intersecções entre a luta pela libertação animal, o marxismo e a teoria crítica.\n\n\n\nO autor examina as relações complexas entre a opressão dos animais, as estruturas da sociedade de classes e as teorias críticas contemporâneas. O livro propõe uma análise que vai além das discussões convencionais sobre ética animal, integrando uma perspectiva marxista e crítica para compreender as questões éticas e sociais relacionadas à exploração dos animais.\n\n\n\nEsta obra busca contribuir para a discussão sobre a libertação animal dentro de um contexto mais amplo de teorias críticas e estruturas sociais, oferecendo uma abordagem única para aqueles interessados na intersecção entre política, ética e meio ambiente. E conclui, na contramão do senso comum do vegetarianismo liberal: sem emancipação humana, não pode haver emancipação animal!\n\n\n\n<br><br><strong>Autor:</strong> Marco Maurizi<br><br><strong>Tradução:</strong> Maila Costa<br><br><strong>Revisão:</strong> Giovana Aranda Silva<br><br><strong>Edição:</strong> 2023<br><br><strong>Páginas:</strong> 340",
+    "details.images": [
+      "images/libertacao_animal.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Racismo, capital e emancipação humana: notas sobre a questão negra na tradição comunista40",
+    "preco": "R$ 56,00",
+    "imagem": "images/racismo_emancipacao.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=8",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "Racismo, capital e emancipação humana: notas sobre a questão negra na tradição comunista, por Jeferson Garcia\n\n\n\n“Racismo, Capital e Emancipação Humana nos demonstra como as obras teóricas de Marx e Engels são fundamentais para a compreeensão do racismo e de sua função na sociedade capitalista. Com isso, o autor faz um contraponto a alguns movimentos antirraciais influenciados pelo liberalismo que não propõem a superação dessa sociedade como condição para o fim da opressão de raça. Além disso, Jeferson Garcia descontrói mitos propagados por alguns desses movimentos que pretendem classificar as concepções teóricas dos precursores do marxismo como racistas. Ao mesmo tempo, o autor aponta que alguns partidos marxistas não incorporam o debate da “Questão Negra” em seus programas políticos e explica as suas razões, porém as contrapõem com base na história do movimento comunista internacional, desde o início do sec. XX até os dias atuais, utilizando para isso o acúmulo teórico dos principais marxistas. Com uma linguagem descomplicada, Garcia consegue nos mostrar como o racismo precisa ser compreendido e combatido no presente, ao mesmo tempo, em que se constrói um movimento político que busque a construção de um mundo novo não mais atravessado pela exploração de raça e de classe.”\n\n\n\n-Lucas F. M. Lima\n\n\n\n“Uma crítica útil apenas à crítica roedora dos ratos não é digna de ser nomeada crítica. A crítica do presente não pode temer o confronto com o passado quando se tem como perspectiva um futuro radicalmente transformado. Em suma, o pensamento crítico é efetivo quando combinado com uma ação política radical, se convertido em crítica das armas.\n\n\n\nEis a qualidade desse trabalho excepcional do camarada Jeferson Garcia: resgate histórico dos erros e acertos do movimento comunista acerca da questão negra acompanhado de proposta teórico-metodológica voltada à compreensão do fenômeno do racismo com vistas à sua superação numa perspectiva revolucionária.\n\n\n\nE de onde vem os diamante? Da lama – Mano Brown”\n\n\n\n-Carlos Rico\n\n\n\n<br><br><strong>Autor:</strong> Jefferson Garcia<br><br><strong>Revisão:</strong> Gabi Soares, Thais Ormelez, Tainá Gentil, Zara Gentil, Kélen Henn, Victor Valério, Cássius Brito<br><br><strong>Páginas:</strong> 342<br><br><strong>Edição:</strong> 2022",
+    "details.images": [
+      "images/racismo_emancipacao.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Alexandra Kollontai: obras escolhidas (volume 2)",
+    "preco": "R$ 60,00",
+    "imagem": "images/revolucao_sexual.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=9",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "A comunista Alexandra Mikháilovna Kollontai (1872 – 1952) é, sem sombra de dúvidas, a mais destacada revolucionária russa de sua geração: indicada para o Comitê Central bolchevique no VI Congresso do partido (1917), foi a primeira mulher eleita para os Comitês Executivos do Soviet de Petrogrado e dos Soviets de toda a Rússia. Opondo-se à linha majoritária entre os bolcheviques (de apoio crítico ao Governo provisório de Kérenski) ao lado de Lênin, à época em que ele proferia suas famosas Teses de Abril, Kollontai ajudou definir os rumos daquela que viria ser a primeira revolução socialista vitoriosa da história.\n\n\n\nNomeada Comissária do Povo para Assuntos do Bem-Estar Social após a Revolução de Outubro, Kollontai esteve na linha de frente das lutas das operárias e camponesas contra o patriarcalismo opressivo enraizado na sociedade russa. Travou, ao longo de toda sua vida, uma luta em duas frentes: por um lado, contra o chamado “chauvinismo masculino”, existente mesmo entre os revolucionários comunistas; e, por outro lado, contra o feminismo burguês: “Por que razão, então, a mulher operária deveria buscar uma união com as feministas burguesas? Quem, de fato, seria beneficiada no caso de tal aliança? Certamente, não a mulher operária”.\n\n\n\nA fim de lançar luz sobre o legado desta grande revolucionária, a LavraPalavra Editorial e a Biblioteca Laura Brandão apresentam esta coletânea de Obras Escolhidas de Alexandra Kollontai em 2 volumes!\n\n\n\n<br><br><strong>Autora:</strong> Alexandra Kollontai<br><br><strong>Tradução:</strong> Maitê Peixoto<br><br><strong>Prefácio:</strong> Maitê Peixoto<br><br><strong>Revisão:</strong> Giovana Aranda Silva, Mari Marques<br><br><strong>Páginas:</strong> 296<br><br><strong>Edição:</strong> 2021",
+    "details.images": [
+      "images/revolucao_sexual.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Clara Zetkin: Obras Escolhidas",
+    "preco": "R$ 76,00",
+    "imagem": "images/zetkin.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=10",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "A comunista alemã Clara Zetkin foi uma pioneira nas lutas das mulheres proletárias desde 1874 e uma das responsáveis pela criação do Dia Internacional da Mulher Trabalhadora. Tendo participado na fundação da II e da III Internacionais, sempre alinhada à ala revolucionária do movimento operário, Zetkin atravessou um largo período da luta de classes travando um persistente combate em duas frentes: contra a misoginia reacionária e contra o feminismo liberal-burguês. Nesta coletânea de escritos inéditos, o público brasileiro finalmente tem à disposição algumas de suas mais importantes contribuições teóricas e políticas para o marxismo e para o movimento comunista.\n\n\n\nContendo os escritos:\n\n\n\nPela libertação da mulher! (1889)\n\nO próximo Congresso da Social-Democracia em Stuttgart (1898)\n\nPor um partido classista revolucionário (1899)\n\nO estudante e a mulher (1899)\n\nSocial-Democracia e sufrágio feminino (1906)\n\nMulheres proletárias se preparem! (1914)\n\nDa democracia à ditadura (1919)\n\nRosa Luxemburgo: sua luta contra os traidores alemães do socialismo internacional (1919)\n\nEm defesa de Rosa Luxemburgo (1919)\n\nSalve a Terceira Internacional Socialista! (1919)\n\nA situação na Alemanha (1920)\n\nDiretrizes para o movimento comunista feminino (1920)\n\nSobre a estratégia e a tática (discurso no III Congresso da Internacional Comunista) (1921)\n\nRelatório sobre o movimento das mulheres comunistas (1921)\n\nA luta dos Partidos Comunistas contra a ameaça da guerra e a guerra (1922)\n\nA luta contra novas guerras imperialistas (1922)\n\nA Revolução Russa e o IV Congresso da Comintern (1922)\n\nO terceiro aniversário da revista “Kommunistiska”, o órgão de mulheres da revolução proletária na União Soviética (1923)\n\nSobre as mulheres muçulmanas (1924)\n\nO campo mundial de atividade da Comintern (1924)\n\n\n\n<br><br><strong>Autor:</strong> Clara Josephine Zetkin<br><br><strong>Tradução:</strong> Jaqueline Uzai Tavares e Larissa Figueredo<br><br><strong>Revisão:</strong> Giovana Aranda Silva<br><br><strong>Edição:</strong> 2024<br><br><strong>Páginas:</strong> 340",
+    "details.images": [
+      "images/zetkin.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Claudia Jones: escritos sobre gênero, raça e classe",
+    "preco": "R$ 76,00",
+    "imagem": "images/claudia_jones.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=11",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "Claudia Jones, intelectual e militante comunista negra nascida no Caribe, lutou ao longo da vida contra o capitalismo, o racismo e o machismo. Emigrada primeiro para os EUA, e depois para a Inglaterra, fundou duas das instituições mais importantes da Grã-Bretanha Negra; o primeiro jornal negro, o “West Indian Gazette” e o “Afro-Asian Times” e foi fundadora do Carnaval de Notting Hill.\n\n\n\nEste livro finalmente oferece ao público brasileiro acesso às palavras de uma grande revolucionária do século XX, muitas vezes esquecida, que incansavelmente fez campanha, escreveu, agitou, organizou, editou e publicou escritos sobre a luta das classes e camadas oprimidas e na luta contra o militarismo e guerra. “Claudia Jones foi uma figura icônica que inspirou uma geração de ativistas negros e merece ser muito mais conhecida. Este importante livro é um memorial adequado.” Diane Abbott, primeira mulher negra eleita para o parlamento britânico.\n\n\n\n<br><br><strong>Autora:</strong> Claudia Jones<br><br><strong>Revisão:</strong> Giovana Aranda Silva<br><br><strong>Edição:</strong> 2024",
+    "details.images": [
+      "images/claudia_jones.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Estratégia e tática da hegemonia proletária, por Lênin",
+    "preco": "R$ 80,00",
+    "imagem": "images/lenin_estrategia.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=12",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "“A hegemonia do proletariado constitui um dos princípios fundamentais do marxismo”.\n\n\n\n“Somente a concepção de hegemonia de um negociante pequeno-burguês poderia concebê-la como um acordo, um reconhecimento mútuo, uma questão de termos verbalizados. Do ponto de vista proletário, a hegemonia em uma guerra pende para o lado que luta com mais energia, que não perde nunca a chance de desferir um golpe no inimigo, que sempre ajusta a ação às palavras, sendo, portanto, a liderança ideológica das forças democráticas, que critica políticas intermediárias de todo tipo.”\n\n\n\nA palavra ” hegemonia“ aparece um total de 167 vezes nas obras completas de Lênin. Não é à toa que Gramsci, um dos principais popularizadores do termo, atribuía a Lênin a originalidade na formulação e realização desse conceito: “assinalei a importância filosófica do conceito e da realidade da hegemonia, devido a Ilitch.“\n\n\n\nReunindo dezenas de escritos de Lênin inéditos em português, a coletânea Estratégia e tática da hegemonia proletária põe em foco a concepção lenineana da hegemonia do proletariado.\n\n\n\n<br><br><strong>Autor:</strong> Vladímir Ilitch Uliánov, Lênin<br><br><strong>Prefácio:</strong> Vinícius Okada<br><br><strong>Tradução:</strong> Gabriel Landi Fazzio, Gabriel Varandas Lazzari, MBS, Mário Coelho, Otávio Losada e Vinícius Okada<br><br><strong>Revisão:</strong> Gabriel Landi Fazzio e Giovana Aranda Silva<br><br><strong>Páginas:</strong> 456<br><br><strong>Edição:</strong> 2023",
+    "details.images": [
+      "images/lenin_estrategia.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Quem são os “amigos do povo” e como lutam contra os social-democratas?, por Vladímir Ilitch Lênin",
+    "preco": "R$ 50,00",
+    "imagem": "images/lenin_quemsao.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=13",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "Quando falo numa compreensão estreita do marxismo, refiro-me aos próprios marxistas. Não se pode deixar de observar, a esse respeito, que o marxismo é submetido à mais escandalosa redução e tergiversação quando nossos liberais e radicais assumem a tarefa de expô-lo nas páginas da imprensa legal.” – Lênin.\n\n\n\nUma das mais importantes obras da juventude de Lênin, em uma tradução inédita em português, cotejada com o original russo. Em uma polêmica filosófica, científica e econômica com as teorias dos populistas russos, Lênin apresenta uma brilhante defesa do marxismo contra suas falsificações e distorções. Um livro que influenciou tremendamente os jovens marxistas russos que, mais tarde, formaria a seu lado o partido bolchevique. Debatendo a influência de Hegel no pensamento de Marx, os desafios metodológicos da ciência social materialista e a necessidade histórica do socialismo como tendência objetiva, Vladímir Ilitch se destacou no meio revolucionário russo com esta brochura que circulou amplamente em São Petesburgo à época. Um dos clássicos leninistas menos acessíveis no Brasil, “Quem são os ‘amigos do povo’ e como lutam contra os social-democratas?” oferece uma introdução incendiária ao marxismo de Lênin, em confronto aberto com os críticos populistas e liberais do materialismo dialético.\n\n\n\n“Em um ensaio pouco conhecido e altamente instrutivo, Lênin discute amplamente o método científico do trabalho de Marx, usando os próprios termos de Marx (‘Quem são os amigos do povo’). O materialismo histórico, diz Lênin, não é uma concepção arbitrária. A ciência da história foi constituída como as outras ciências eram; embora possua seus próprios métodos e princípios, deve cumprir os mesmos padrões de rigor. ‘Essa ideia de materialismo na sociologia era, por si só, um elemento genial. Naturalmente, por enquanto foi apenas uma hipótese, mas foi a primeira hipótese a criar a possibilidade de uma abordagem estritamente científica aos problemas históricos e sociais’. Essa hipótese (a explicação da história através da dialética das forças e das relações de produção) permite introduzir os critérios da ciência na história: objetividade, repetição, generalização“. – Althusser, Sobre Marx, 1953.\n\n\n\n<br><br><strong>Autor:</strong> Vladímir Ilitch Uliánov, Lênin<br><br><strong>Tradução:</strong> Gabriel Landi Fazzio e Gabriel Lazzari Varandas<br><br><strong>Revisão:</strong> Giovana Aranda Silva<br><br><strong>Páginas:</strong> 264<br><br><strong>Edição:</strong> 2023",
+    "details.images": [
+      "images/lenin_quemsao.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Meta Amor Fases – Mauro Iasi",
+    "preco": "R$ 36,00",
+    "imagem": "images/meta_amor.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=14",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "“É por acreditar que somos este ser coletivo que se encontra submetido na fragmentação individualista pela sociedade do capital, que não me espanta o fato dos pequenos poemas que lancei no mundo encontrarem abrigo em outros camaradas tão distantes e em tão diferentes lugares. Porque quando falamos de nossas dores e esperanças, de nossos amores e nossas lutas, estamos falando desta substância comum que nos liga na indissolúvel solidariedade de nossa classe, na matéria coletiva que nos faz homens e mulheres que se levantam contra a indignidade da exploração levantando a bandeira da humanidade.” (Mauro Luis Iasi)\n\n\n\n<br><br><strong>Autor:</strong> Mauro Luis Iasi",
+    "details.images": [
+      "images/meta_amor.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "O marxismo revolucionário de Pachukanis: obras escolhidas",
+    "preco": "R$ 76,00",
+    "imagem": "images/pachukanis.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=15",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "O marxismo revolucionário de Pachukanis: obras escolhidas é uma coletânea de artigos do revolucionário bolchevique Ievguiénii B. Pachukanis. Reunidos pela primeira vez, em tradução inédita do russo, os escritos permitem uma compreensão aprofundada das concepções marxistas-leninistas do mais renomado jurista comunista. Uma leitura indispensável para a crítica marxista do Direito.\n\n\n\nContendo os escritos: “Os primeiros meses de existência do Tribunal Popular de Moscou” (1922); “Sobre os momentos revolucionários na história do Estado e Direito inglês” (1927); “A Ditadura do Proletariado e a oposição” (1928); “As novíssimas revelações de Karl Kautsky (A propósito do livro ‘A concepção materialista da história’” (1929); “Sobre a questão da luta de classes no período de transição” (1930); “Hegel: o Estado e o Direito (Em homenagem ao centenário de morte).” (1931); “A teoria da luta e da vitória do proletariado” (1933); “A reconstrução do aparato do Estado e a luta contra o burocratismo” (1934); “O leninismo segue triunfando” (1934); “Engels como teórico do marxismo e lutador pelo marxismo revolucionário” (1935); “O bolchevismo e os soviets de 1905” (1935); entre outros!\n\n\n\n“Apenas o materialismo dialético de Marx e Lênin enquanto única filosofia coerente do proletariado revolucionário, apenas a vitória deste último sobre o capitalismo traz libertação plena da consciência do ser humano do poder das forças sobrenaturais por ele mesmo criadas. […] Não é Hegel por si mesmo, mas a reelaboração materialista de Hegel por Marx e Lênin, a dialética materialista como arma da luta revolucionária pela derrubada do capitalismo, pela ditadura do proletariado, a relação indissolúvel dessa única filosofia materialista consequente com as tarefas da época, com a luta do nosso partido, com a construção vitoriosa do socialismo na URSS e o amadurecimento da revolução proletária mundial – eis a nossa palavra de ordem combativa com a qual comemoramos o centenário do maior representante da filosofia clássica alemã.”\n\n\n\n<br><br><strong>Autor:</strong> Ievguiénii B. Pachukanis<br><br><strong>Tradução:</strong> Anna Savitskaia e Oleg Savitskii<br><br><strong>Revisão:</strong> Gabriel Landi Fazzio e Giovana Aranda Silva<br><br><strong>Páginas:</strong> 364<br><br><strong>Edição:</strong> 2023",
+    "details.images": [
+      "images/pachukanis.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Patch - Ousar Lutar Ousar Vencer - Preto e Branco",
+    "preco": "R$ 5,00",
+    "imagem": "images/patch_preto_branco.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=22",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "Patch para costura com estampa Ousar Lutar Ousar Vencer, preto e branco. Verificar disponibilidade",
+    "details.images": [
+      "images/patch_preto_branco.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Patch - Ousar Lutar Ousar Vencer - Vermelho e Branco",
+    "preco": "R$ 5,00",
+    "imagem": "images/patch_vermelho_branco.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=23",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "Patch para costura com estampa Ousar Lutar Ousar Vencer, vermelho e branco. Verificar disponibilidade",
+    "details.images": [
+      "images/patch_vermelho_branco.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Patch - Ousar Lutar Ousar Vencer - Vermelho e Preto",
+    "preco": "R$ 5,00",
+    "imagem": "images/patch_vermelho_preto.jpg",
+    "acao": "Detalhes",
+    "link": "item.html?id=24",
+    "sale": false,
+    "estrelas": 5,
+    "details.description": "Patch para costura com estampa Ousar Lutar Ousar Vencer, vermelho e preto. Verificar disponibilidade",
+    "details.images": [
+      "images/patch_vermelho_preto.jpg"
+    ]
+  }
 ]

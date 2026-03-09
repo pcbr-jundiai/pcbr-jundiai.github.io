@@ -12,12 +12,22 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <style>
+            body {
+                display: flex;
+                flex-direction: column;
+                min-height: 100vh;
+            }
+            footer {
+                margin-top: auto;
+            }
+        </style>
     </head>
     <body>
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand text-warning" href="#!">Banquinha Vermelha Jundiaí</a>
+                <a class="navbar-brand text-warning" href="index.html">Banquinha Vermelha Jundiaí</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
@@ -27,6 +37,19 @@
                 </div>
             </div>
         </nav>
+        <!-- Contact Section-->
+        <section class="py-5">
+            <div class="container px-4 px-lg-5">
+                <h2 class="text-center text-danger mb-4">Entre em Contato</h2>
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <p class="text-center mb-3">Siga-nos no Instagram para novidades e lançamentos:</p>
+                        <p class="text-center"><a href="https://www.instagram.com/pcbr_jundiai/" target="_blank" class="btn btn-outline-danger"><i class="bi bi-instagram"></i> @pcbr_jundiai</a></p>
+                        <p class="text-center mt-4">Dúvidas ou pedidos pelo instagram, ou envie um email para: <a href="mailto:jundiaiujc@gmail.com">jundiaiujc@gmail.com</a></p>
+                    </div>
+                </div>
+            </div>
+        </section>
         <footer class="py-5 bg-danger">
             <div class="container"><p class="m-0 text-center text-warning">Copyright &copy; Banquinha Vermelha 2026</p></div>
         </footer>
